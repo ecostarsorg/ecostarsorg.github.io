@@ -1,0 +1,7 @@
+# Site settings
+title: Ecostars
+email: tech@ecostars.org
+
+# Build settings
+theme: jekyll-theme-minimal
+markdown: kramdown
