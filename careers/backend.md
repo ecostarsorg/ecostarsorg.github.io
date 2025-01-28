@@ -96,8 +96,8 @@ More details at [https://stackshare.io/companies/ecostars](https://stackshare.io
 ## The team
 We are a super small team (<10 plus Bola the greyhound) for now.
 
-![Bola in the office](images/Bola-01.jpg)
-![Bola smiling](images/Bola-02.jpg)
+![Bola in the office](../images/Bola-01.jpg)
+![Bola smiling](../images/Bola-02.jpg)
 Bola the greyhound
 
 ## The hiring process
