@@ -13,7 +13,7 @@ NOTE: Engineer: a practitioner of engineering, professional who invents, designs
 
 
 ## About Ecostars 
-![Ecostars logo](/images/ecostars-logo.png)
+![Ecostars logo](/images/ecostars-logo.png | width=250)
 Born in 2021, [Ecostars](https://ecostars.org) is a B2B SaaS: a hotel sustainability certification that responds to the sustainable travel trend by awarding eco-stars through a registered algorithm that calculates the environmental impact per stay of each hotel based on three basic parameters: energy efficiency, water efficiency, and sustainable commitments (CO2, circular economy, sustainable food, social impact and animal welfare). The evaluation process is simple, free of charge, automated and statistical -based on an algorithm and comparative benchmark tables-, globally scalable, objective, unbiased and comprehensive, plus 95%+ faster than any other in the market.
 
 In just one year, Ecostars has become the #1 ESG certificate in Spain and #3 globally, present in 30+ countries across Europe, Latin America and Africa. More than 1,500 hotels, including large chains as H10, Meliá, Catalonia, Eurostars, Abba or Ilunion have been certified.
