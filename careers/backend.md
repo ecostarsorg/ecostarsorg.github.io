@@ -1,4 +1,5 @@
 # Backend Product Engineer
+![Ecostars logo](/images/ecostars-logo.png)
 Ecostars is a B2B startup transforming the sustainability certifications industry. We have a product customer-first vision, and an amazing technical challenge in front of us.
 
 - Startup
@@ -96,8 +97,8 @@ More details at [https://stackshare.io/companies/ecostars](https://stackshare.io
 ## The team
 We are a super small team (<10 plus Bola the greyhound) for now.
 
-![Bola in the office](../images/Bola-01.jpg)
-![Bola smiling](../images/Bola-02.jpg)
+![Bola in the office](/images/Bola-01.jpeg)
+![Bola smiling](/images/Bola-02.jpeg)
 Bola the greyhound
 
 ## The hiring process
