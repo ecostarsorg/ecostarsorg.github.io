@@ -103,7 +103,7 @@ Bola the greyhound
 
 ## The hiring process
 
-Send us an email with your CV to careers@ecostars.org and let us know what's driving you to join Ecostars.
+Send us an email with your CV to [careers@ecostars.org](mailto:careers@ecostars.org) and let us know what's driving you to join Ecostars.
 
 The interview will be handled by our Tech and Product team:
 - An initial video call with our CTO and CPO
