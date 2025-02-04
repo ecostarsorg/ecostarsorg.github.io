@@ -1,19 +1,19 @@
-# Backend Product Engineer
+# 👩🏻‍💻 Backend Product Engineer
 Ecostars is a B2B startup transforming the sustainability certifications industry. We have a product customer-first vision, and an amazing technical challenge in front of us.
 
-- Startup
-- Product
-- Technical challenge 
-- Indefinite
-- Full time
-- Hybrid (Madrid, 1-2 office days/week)
-- Flexible hours
+- 🌱 Startup
+- 🎯 Product
+- 🚀 Technical challenge 
+- 🏠 Hybrid (Madrid, 1-2 office days/week)
+- 🕐 Flexible hours with overlapping time frame (10:00 - 15:00)
+- 💰 40-60k + equity
 
-NOTE: Engineer: a practitioner of engineering, professional who invents, designs, analyzes, builds and tests machines, complex systems, structures, gadgets and materials to fulfill functional objectives and requirements while considering the limitations imposed by practicality, regulation, safety and cost.
+*NOTE: Engineer: a practitioner of engineering, professional who invents, designs, analyzes, builds and tests machines, complex systems, structures, gadgets and materials to fulfill functional objectives and requirements while considering the limitations imposed by practicality, regulation, safety and cost. Engineering is a mindset, not a diploma.*
 
 
 ## About Ecostars 
-![Ecostars logo](/images/ecostars-logo.png | width=250)
+![Ecostars logo](/images/ecostars-logo.png){:width="250px"}
+
 Born in 2021, [Ecostars](https://ecostars.org) is a B2B SaaS: a hotel sustainability certification that responds to the sustainable travel trend by awarding eco-stars through a registered algorithm that calculates the environmental impact per stay of each hotel based on three basic parameters: energy efficiency, water efficiency, and sustainable commitments (CO2, circular economy, sustainable food, social impact and animal welfare). The evaluation process is simple, free of charge, automated and statistical -based on an algorithm and comparative benchmark tables-, globally scalable, objective, unbiased and comprehensive, plus 95%+ faster than any other in the market.
 
 In just one year, Ecostars has become the #1 ESG certificate in Spain and #3 globally, present in 30+ countries across Europe, Latin America and Africa. More than 1,500 hotels, including large chains as H10, Meliá, Catalonia, Eurostars, Abba or Ilunion have been certified.
@@ -83,7 +83,7 @@ Setting your own direction when one isn’t detailed; determining what needs to 
 Since we work asynchronously and remotely, it’s important to radiate information about what we’re working on. We use slack channels profusely.
 What will you be working on this week? Write a message to your future self last thing on Friday with the priorities for the week and share it with the team. This way you’ll have all the context once you get back from the weekend or holiday
 
-**Balance**
+ **Balance**
 We believe in the value of a balanced life, which is why we maintain a 40-hour work week. Keeping working hours reasonable helps us focus on what truly matters and ensures that our time and energy are spent effectively. Rest, good sleep, and a fulfilling life outside of work are essential for long-term success and well-being.
 
 Occasionally, off-hours work may be required for on-call duties, maintenance, or emergencies. However, these instances should not extend your total working hours. We trust you to take the necessary time off to recover and balance any extra efforts during the week.
@@ -97,8 +97,8 @@ More details at [https://stackshare.io/companies/ecostars](https://stackshare.io
 ## The team
 We are a super small team (<10 plus Bola the greyhound) for now.
 
-![Bola in the office](/images/Bola-01.jpeg)
-![Bola smiling](/images/Bola-02.jpeg)
+![Bola in the office](/images/Bola-01.jpeg){:height="350px"}
+![Bola smiling](/images/Bola-02.jpeg){:height="350px"}
 Bola the greyhound
 
 ## The hiring process
