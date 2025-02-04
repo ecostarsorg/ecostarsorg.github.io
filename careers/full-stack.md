@@ -1,4 +1,4 @@
-# 👩‍💻 Backend Product Engineer
+# 👩‍💻 Full-stack Product Engineer
 Ecostars is a B2B startup transforming the sustainability certifications industry. We have a product customer-first vision, and an amazing technical challenge in front of us.
 
 - 🌱 Startup
@@ -13,7 +13,6 @@ Ecostars is a B2B startup transforming the sustainability certifications industr
 
 ## About Ecostars 
 ![Ecostars logo](/images/ecostars-logo.png){:width="250px"}
-
 Born in 2021, [Ecostars](https://ecostars.org) is a B2B SaaS: a hotel sustainability certification that responds to the sustainable travel trend by awarding eco-stars through a registered algorithm that calculates the environmental impact per stay of each hotel based on three basic parameters: energy efficiency, water efficiency, and sustainable commitments (CO2, circular economy, sustainable food, social impact and animal welfare). The evaluation process is simple, free of charge, automated and statistical -based on an algorithm and comparative benchmark tables-, globally scalable, objective, unbiased and comprehensive, plus 95%+ faster than any other in the market.
 
 In just one year, Ecostars has become the #1 ESG certificate in Spain and #3 globally, present in 30+ countries across Europe, Latin America and Africa. More than 1,500 hotels, including large chains as H10, Meliá, Catalonia, Eurostars, Abba or Ilunion have been certified.
@@ -83,7 +82,7 @@ Setting your own direction when one isn’t detailed; determining what needs to 
 Since we work asynchronously and remotely, it’s important to radiate information about what we’re working on. We use slack channels profusely.
 What will you be working on this week? Write a message to your future self last thing on Friday with the priorities for the week and share it with the team. This way you’ll have all the context once you get back from the weekend or holiday
 
- **Balance**
+**Balance**
 We believe in the value of a balanced life, which is why we maintain a 40-hour work week. Keeping working hours reasonable helps us focus on what truly matters and ensures that our time and energy are spent effectively. Rest, good sleep, and a fulfilling life outside of work are essential for long-term success and well-being.
 
 Occasionally, off-hours work may be required for on-call duties, maintenance, or emergencies. However, these instances should not extend your total working hours. We trust you to take the necessary time off to recover and balance any extra efforts during the week.
@@ -103,7 +102,7 @@ Bola the greyhound
 
 ## The hiring process
 
-Send us an email with your CV to [careers@ecostars.org](mailto:careers@ecostars.org) and let us know what's driving you to join Ecostars.
+Send us an email with your CV to careers@ecostars.org and let us know what's driving you to join Ecostars.
 
 The interview will be handled by our Tech and Product team:
 - An initial video call with our CTO and CPO
@@ -129,4 +128,3 @@ Either way, we'll provide feedback and keep you in the loop after each interview
 If this opportunity sparks your interest and you believe you have what it takes to make a significant impact, we want to hear from you! Don't hesitate to reach out, even if you don't check all the boxes. If you think you can fit in and contribute, we encourage you to apply.
 
 *Ecostars is committed to equal opportunities, regardless of race, color, ancestry, religion, sex, origin, sexual orientation, age, citizenship, marital status, family or parental situation, gender identity, disability, or any other protected status. The company values your energy, skills, and desire to be part of the team above all else.*
-
