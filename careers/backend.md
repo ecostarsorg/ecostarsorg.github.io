@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Backend Product Engineer
+# 👩‍💻 Backend Product Engineer
 Ecostars is a B2B startup transforming the sustainability certifications industry. We have a product customer-first vision, and an amazing technical challenge in front of us.
 
 - 🌱 Startup
@@ -128,6 +128,5 @@ Either way, we'll provide feedback and keep you in the loop after each interview
 
 If this opportunity sparks your interest and you believe you have what it takes to make a significant impact, we want to hear from you! Don't hesitate to reach out, even if you don't check all the boxes. If you think you can fit in and contribute, we encourage you to apply.
 
-Ecostars is committed to equal opportunities, regardless of race, color, ancestry, religion, sex, origin, sexual orientation, age, citizenship, marital status, family or parental situation, gender identity, disability, or any other protected status. The company values your energy, skills, and desire to be part of the team above all else.
-
+*Ecostars is committed to equal opportunities, regardless of race, color, ancestry, religion, sex, origin, sexual orientation, age, citizenship, marital status, family or parental situation, gender identity, disability, or any other protected status. The company values your energy, skills, and desire to be part of the team above all else.*
 
