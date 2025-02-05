@@ -58,7 +58,7 @@ We believe that education can be acquired in many ways, not just through a degre
 - Identify bottlenecks, employ profiling techniques, and propose enhancements to optimize performance
 - Help other engineers join the team by leading their onboarding process.
 
-## 💻 🐱‍💻 How we work
+## ⚙️ How we work
 **Steering committee** (steerco)
 Once per week we hold a company-wide meeting where we sync about our ongoing projects, needs and thoughts. Everybody is welcome and decisions are made (mostly) by consensus. We intend to keep doing this as long as it is manageable, because we believe it is the best way to avoid confusion and noise.
 
