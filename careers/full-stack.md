@@ -1,4 +1,5 @@
 # 👩‍💻 Full-stack Product Engineer
+![Ecostars logo](/images/ecostars-logo.png){:width="250px"}
 Ecostars is a B2B startup transforming the sustainability certifications industry. We have a product customer-first vision, and an amazing technical challenge in front of us.
 
 - 🌱 Startup
@@ -11,7 +12,7 @@ Ecostars is a B2B startup transforming the sustainability certifications industr
 *NOTE: Engineer: a practitioner of engineering, professional who invents, designs, analyzes, builds and tests machines, complex systems, structures, gadgets and materials to fulfill functional objectives and requirements while considering the limitations imposed by practicality, regulation, safety and cost. Engineering is a mindset, not a diploma.*
 
 
-## About Ecostars 
+## 💚 About Ecostars 
 ![Ecostars logo](/images/ecostars-logo.png){:width="250px"}
 Born in 2021, [Ecostars](https://ecostars.org) is a B2B SaaS: a hotel sustainability certification that responds to the sustainable travel trend by awarding eco-stars through a registered algorithm that calculates the environmental impact per stay of each hotel based on three basic parameters: energy efficiency, water efficiency, and sustainable commitments (CO2, circular economy, sustainable food, social impact and animal welfare). The evaluation process is simple, free of charge, automated and statistical -based on an algorithm and comparative benchmark tables-, globally scalable, objective, unbiased and comprehensive, plus 95%+ faster than any other in the market.
 
@@ -29,7 +30,7 @@ As a purpose-driven and lean team, we passionately embrace:
 - Flexibility and async work
 - Professional growth
 
-## About you
+## 🫵 About you
 We believe that education can be acquired in many ways, not just through a degree. That’s why we don’t require specific formal education, but we do expect you to have experience on the following areas:
 
 - +4 years of experience building complex web applications. Experience in a specific programming language is not important, but most of our codebase is Typescript / NodeJS. We are not tied to anything, but we expect you to adapt and learn on the job.
@@ -40,24 +41,24 @@ We believe that education can be acquired in many ways, not just through a degre
 - Stay up to date on emerging technologies. For example, have some experience with LLM-based generative models
 - Strong problem-solving skills and attention to detail
 
-## In the first month, you will:
+## 1️⃣ In the first month, you will:
 - Meet the whole team
 - Learn our data model and architecture and deeply understand the problem domain
 - Implement your first change, create a pull request and deploy it
 - Review other team members’ code and start contributing to our engineering culture
 
-## Within the first 3 months, you will:
+## 3️⃣ Within the first 3 months, you will:
 - Take ownership defining and implementing new functionalities
 - Improve the process to how we code, review, and ship to improve quality all around
 
-## Within the first 6 months, you will:
+## 6️⃣ Within the first 6 months, you will:
 - Become the most knowledgeable person on multiple key features
 - Know every major component within our system and be able to troubleshoot complex issues
 - Spearhead initiatives initiatives to improve the code base and infrastructure
 - Identify bottlenecks, employ profiling techniques, and propose enhancements to optimize performance
 - Help other engineers join the team by leading their onboarding process.
 
-## How we work
+## ⚙️ How we work
 **Steering committee** (steerco)
 Once per week we hold a company-wide meeting where we sync about our ongoing projects, needs and thoughts. Everybody is welcome and decisions are made (mostly) by consensus. We intend to keep doing this as long as it is manageable, because we believe it is the best way to avoid confusion and noise.
 
@@ -88,19 +89,20 @@ We believe in the value of a balanced life, which is why we maintain a 40-hour w
 Occasionally, off-hours work may be required for on-call duties, maintenance, or emergencies. However, these instances should not extend your total working hours. We trust you to take the necessary time off to recover and balance any extra efforts during the week.
 
 
-## The stack
+## 💻 The stack
 We use these tools because we think they're the best fit for tackling our product challenges. Got a different take? Reach out! Our tech stack is a team decision.
 
 More details at [https://stackshare.io/companies/ecostars](https://stackshare.io/companies/ecostars)
 
-## The team
+## 👥 The team
 We are a super small team (<10 plus Bola the greyhound) for now.
 
 Bola the greyhound
+
 ![Bola in the office](/images/Bola-01.jpeg){:height="350px"}
 ![Bola smiling](/images/Bola-02.jpeg){:height="350px"}
 
-## The hiring process
+## 📝 The hiring process
 
 Send us an email with your CV to careers@ecostars.org and let us know what's driving you to join Ecostars.
 
@@ -112,7 +114,7 @@ The interview will be handled by our Tech and Product team:
 
 Either way, we'll provide feedback and keep you in the loop after each interview regarding the status of the process.
 
-## What we offer
+## 📦 What we offer
 - Competitive and honest salary. We are starting out but we want to pay you the best we can. 40.000 - 60.000 euros (gross annual salary) with annual reviews
 - Permanent contract
 - Hybrid (Madrid): 1-2 office days/week
@@ -125,6 +127,6 @@ Either way, we'll provide feedback and keep you in the loop after each interview
 - Your opinion matters: culture of a consensus-driven decision-making process.
 
 
-If this opportunity sparks your interest and you believe you have what it takes to make a significant impact, we want to hear from you! Don't hesitate to reach out, even if you don't check all the boxes. If you think you can fit in and contribute, we encourage you to apply.
+⚠️ If this opportunity sparks your interest and you believe you have what it takes to make a significant impact, we want to hear from you! Don't hesitate to reach out, even if you don't check all the boxes. If you think you can fit in and contribute, we encourage you to apply.
 
 *Ecostars is committed to equal opportunities, regardless of race, color, ancestry, religion, sex, origin, sexual orientation, age, citizenship, marital status, family or parental situation, gender identity, disability, or any other protected status. The company values your energy, skills, and desire to be part of the team above all else.*
