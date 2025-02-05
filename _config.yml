@@ -1,6 +1,7 @@
 # Site settings
 title: Ecostars ESG AI
 email: tech@ecostars.org
+featured-img: /img/ecostars-logo.png
 
 # Build settings
 markdown: kramdown
