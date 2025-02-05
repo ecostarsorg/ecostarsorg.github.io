@@ -1,5 +1,6 @@
 # 👩‍💻 Backend Product Engineer
 ![Ecostars logo](/images/ecostars-logo.png){:width="250px"}
+
 Ecostars is a B2B startup transforming the sustainability certifications industry. We have a product customer-first vision, and an amazing technical challenge in front of us.
 
 - 🌱 Startup
@@ -40,17 +41,17 @@ We believe that education can be acquired in many ways, not just through a degre
 - Stay up to date on emerging technologies. For example, have some experience with LLM-based generative models
 - Strong problem-solving skills and attention to detail
 
-## 1️⃣ In the first month, you will:
+### 1️⃣ In the first month, you will:
 - Meet the whole team
 - Learn our data model and architecture and deeply understand the problem domain
 - Implement your first change, create a pull request and deploy it
 - Review other team members’ code and start contributing to our engineering culture
 
-## 3️⃣ Within the first 3 months, you will:
+### 3️⃣ Within the first 3 months, you will:
 - Take ownership defining and implementing new functionalities
 - Improve the process to how we code, review, and ship to improve quality all around
 
-## 6️⃣ Within the first 6 months, you will:
+### 6️⃣ Within the first 6 months, you will:
 - Become the most knowledgeable person on multiple key features
 - Know every major component within our system and be able to troubleshoot complex issues
 - Spearhead initiatives initiatives to improve the code base and infrastructure
