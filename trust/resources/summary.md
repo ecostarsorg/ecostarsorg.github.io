@@ -1,89 +1,86 @@
 # Summary
-* Version: v2.0
-* Date of version: 2025-02
-* Author: Information Security Officer
-* Approver: CTO
-
-## Data Centers 
-Ecostars relies on world-class cloud providers, which have data centers located inside the European Union. Our current cloud provider is **[Microsoft Azure](https://azure.microsoft.com/)**.
-
-All services are allocated in the **“West Europe” region**, located in several data centers in the outskirts of **Amsterdam (Netherlands)**. Future expansion options include Google Cloud Platform and Amazon Web Services, always within EU-based, compliant data centers.
-
-As our data grows, we are planning to deploy in a second region for **geo-redundancy** reasons.
-
-## Databases 
-Databases are hosted by our cloud provider [Microsoft Azure](https://azure.microsoft.com/) in its data centers in the “West Europe” region.
-
-The following database managers handle Ecostars customers’ data:
-* Main database: PostgreSQL 14.12
-* Search indexes: ElasticSearch 7.17 
-* Real-time data: InfluxDB 2.7.6 
-* Document database: MongoDB 7.0.14 
+* **Version**: v2.0
+* **Date of version**: 2025-02
+* **Author**: Information Security Officer
+* **Approver**: CTO
 
 
-## Database replication
-Databases are also replicated according to business and availability requirements (e.g. all non-transient data has at least a live replica and periodical off-site backups). 
+## 1. Introduction
+### 1.1 Purpose
+This report documents the security, availability, processing integrity, confidentiality, and privacy controls implemented by Ecostars ESG AI in accordance with the AICPA’s Trust Services Criteria. The assessment period covers 2024-01 to 2025-02.
 
-## Backups
-Data is backed-up in a fully automated way. Backups are kept in the Azure Blob Storage service, fully-encrypted at rest, and copied off-site periodically.
+### 1.2 Scope
+This report applies to all systems, processes, and data management policies governing Ecostars ESG AI’s operations, including:
+- Cloud infrastructure and data centers
+- Access control and authentication mechanisms
+- Data management and retention policies
+- Incident response and business continuity planning
+- Compliance with regulatory standards (e.g., GDPR, ISO 27001)
 
-## Data encryption 
-### Data in-transit
-* Type: 
-* Algorithm: TLS 1.2+ (using a subset of ciphers considered secure)
-* Provider: [Let’s Encrypt](https://letsencrypt.org/) and tied to the domain name. 
+### 1.3 System Description
+- Ecostars ESG AI provides ESG-focused digital solutions with a strong commitment to security and compliance.
+- Infrastructure is hosted in EU-based Microsoft Azure data centers (West Europe - Amsterdam), with planned geo-redundancy expansion, Google Cloud Platform or Amazon Web Services, always within EU-based, compliant data centers.
+- Cloud services are configured with automated backup, encryption, and secure access controls.
+- Data access follows a strict Role-Based Access Control (RBAC) model with Multi-Factor Authentication (MFA).
+- Single Sign-On (SSO) is enabled via SAML2, OAuth2, and OpenID Connect.
 
-### Data at-rest
-* Type: encryption at disk level
-* Algorithm: AES
-* Key length: 256
+## 2. Trust Services Criteria and Controls
+### 2.1 Security
+- Implementation of Role-Based Access Control (RBAC) to enforce least privilege access.
+- Multi-Factor Authentication (MFA) for all critical systems.
+- Network security measures including firewalls, intrusion detection systems, and regular penetration testing.
+- Automated monitoring and logging of security events.
 
-### Passwords and secrets
-* Type: hash
-* Algorithm: Argon2id
-* Key length: 256 bit
+### 2.2 Availability
+- 99.9% uptime SLA for customer-facing applications.
+- High-availability architecture with load balancing and failover mechanisms.
+- Regular data backups stored in secure Azure Blob Storage.
 
-### Tokens
-* Type: hash
-* Algorithm: SHA
-* Key length: 256
+### 2.3 Processing Integrity
+- Secure software development lifecycle (SDLC) with automated security testing.
+- Data validation and integrity checks implemented in all systems.
+- API rate limiting to prevent abuse and ensure stable performance.
 
-### Laptop disks
-* Type: encryption
-* Algorithm: AES 
-* Key length: 256 or 528 bit
+### 2.4 Confidentiality
+- Encryption of data at rest (AES-256) and in transit (TLS 1.2+).
+- Confidential data access is logged and monitored for anomalies.
+- Third-party data sharing governed by Data Processing Agreements (DPA).
 
+### 2.5 Privacy
+- Compliance with GDPR and ISO 27001 for data privacy and protection.
+- User data is anonymized where possible and securely stored.
+- Regular audits ensure compliance with privacy obligations.
 
-## Additional security measures 
+## 3. Risk Management and Incident Response
+### 3.1 Risk Management
+- Periodic risk assessments conducted to identify and mitigate security threats.
+- Security awareness training for all employees.
+- Formal policies in place for vulnerability management and remediation.
 
-At Ecostars we always try to follow security and scalability recommendations when we design, implement and deploy our services. These include, but are not limited to: 
+### 3.2 Incident Response
+- Dedicated incident response team responsible for investigating security incidents.
+- Defined escalation procedures for critical events.
+- Incident logs and reports maintained for compliance review.
 
-* We follow [OWASP](https://owasp.org) recommendations for secure code development and service deployment
+## 4. Business Continuity and Disaster Recovery
+### 4.1 Business Continuity
+- Redundant systems and data replication for continuity.
+- Emergency response plans documented and tested regularly.
 
-* Our applications are built using the [12 factor app methodology](https://12factor.net/) to ensure their portability and resilience
+### 4.2 Disaster Recovery
+- Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO) defined for all systems.
+- Encrypted offsite backups ensure rapid recovery.
 
-* Access to any service is filtered by a Web Application Firewall (WAF), which prevents brute force attacks, DDOS attempts and access from known compromised addresses. 
+## 5. Compliance and Auditing
+### 5.1 Compliance Standards
+- Aligned with SOC 2, ISO 27001, and GDPR frameworks.
+- Align with OWASP and 12 Factor app methodologies and recommendations.
+- Regular audits conducted to maintain compliance and identify areas for improvement.
 
-* All our databases follow a strict multi-tenant architecture. Users from one tenant are not permitted to access any other tenants’ information, even at the database level. Cross-tenant access is only ever used to query and aggregate data (e.g. to calculate benchmarks across the data from different tenants) and dropped immediately, following the principle of least privilege. 
+### 5.2 Audit Results
+- This assessment confirms that Ecostars ESG AI has implemented effective security, availability, processing integrity, confidentiality, and privacy controls.
+- No major deficiencies were identified during the audit period.
 
-* Our software follows the Command-Query Responsibility Segregation architecture, to allow, among other things, to more easily debug the code and prevent unintended side-effects. 
+## 6. Conclusion
+Ecostars ESG AI maintains a robust security posture aligned with SOC 2 Type II, ISO 27001 and GDPR requirements. The company remains committed to ongoing improvements, regulatory compliance, and the highest standards of security and privacy.
 
-* Our development process includes code reviews on all software deployed, automated unit tests in business critical areas of the code, and Continuous Integration (CI) processes, which increases the code quality and speeds up the deployment times. 
-
-* We have a strict QA process which includes a completely independent staging environment, populated with fake data. Critical features never go live until they have been thoroughly tested in the staging environment. 
-
-* All secrets (API keys, etc.) are distributed using the Principle of Least Privilege. All queries and commands use accounts that follow this principle and have the least amount of permissions needed to execute said query or command. 
-
-* Access to the production and staging environments is limited on a need-to-know basis. The production environment specifically cannot be accessed by most developers, but only those in a trusted-ring which only includes the most senior developers in the team. 
-
-* Access to any environment is strictly done using secure protocols (e.g. SSH) and always with private keys. Password-based access is explicitly disabled in all services. 
-
-* Our services run software from a read-only repository so even if one service is compromised, the intruder won't be able to affect other services. The software is also mounted from a read-only filesystem, so even an undesired access would prevent any changes in either the software or its configuration files. 
-
-* Software at the OS-level and dependencies are updated automatically as part of the normal development flow. Our CI process allows us to deploy several times a week (often several times a day) and each of those deployments checks for published security fixes in all of our software. 
-
-* Every 6 months, we undergo an internal information security assessment where we do end-to-end testing of security, upgrade software manually to the latest major versions and double-check security patches for known CVEs. Finally, we deploy a new environment to check the Disaster Recovery procedure hands-on. 
-
-
-## Conditions of use 
-Each acceptance (or termination) of our Terms & Conditions and Privacy Policy are kept according to the GDPR, being an opt-in process. Final users will be able to change this acceptance, allowing them to opt-in and opt-out from receiving commercial comms. The date for opt-ins and opt-outs are also saved in our systems.
