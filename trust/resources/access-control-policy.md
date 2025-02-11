@@ -7,10 +7,10 @@
 
 ## 1. Introduction
 ### 1.1 Purpose  
-This document defines the access control policy for [Company Name] to ensure that only authorized users and systems can access company resources, in compliance with SOC 2, ISO 27001, and other security frameworks.
+This document defines the access control policy for Ecostars ESG AI to ensure that only authorized users and systems can access company resources, in compliance with SOC 2, ISO 27001, and other security frameworks.
 
 ### 1.2 Scope  
-This policy applies to all employees, contractors, and external users accessing [Company Name] systems, applications, and APIs.
+This policy applies to all employees, contractors, and external users accessing Ecostars ESG AI systems, applications, and APIs.
 
 ### 1.3 Objectives  
 - Ensure secure authentication and authorization mechanisms.

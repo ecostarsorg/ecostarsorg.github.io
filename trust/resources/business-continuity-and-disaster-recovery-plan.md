@@ -15,10 +15,10 @@ We are currently working on establishing a geo-redundant, load-balanced, high-av
 ess Continuity and Disaster Recovery Plan
 
 1. Introduction 1.1 Purpose
-The purpose of this document is to outline the business continuity and disaster recovery (BCDR) plan for [Company Name]. This plan ensures that critical business functions can continue and recover effectively in the event of an incident, in compliance with SOC 2, ISO 27001, and other relevant security frameworks.
+The purpose of this document is to outline the business continuity and disaster recovery (BCDR) plan for Ecostars ESG AI. This plan ensures that critical business functions can continue and recover effectively in the event of an incident, in compliance with SOC 2, ISO 27001, and other relevant security frameworks.
 
 ### 1.2 Scope
-This plan applies to all business units, employees, and systems critical to the operation of [Company Name]. It covers potential disruptions such as natural disasters, cyberattacks, infrastructure failures, and other unforeseen events.
+This plan applies to all business units, employees, and systems critical to the operation of Ecostars ESG AI. It covers potential disruptions such as natural disasters, cyberattacks, infrastructure failures, and other unforeseen events.
 
 ### 1.3 Objectives
 
@@ -145,7 +145,7 @@ This plan applies to all business units, employees, and systems critical to the 
 
     Updates documented and communicated to all stakeholders
 
-7. Conclusion This Business Continuity and Disaster Recovery Plan is essential for ensuring the resilience and security of [Company Name]. All employees must familiarize themselves with the procedures outlined in this document to ensure preparedness for potential disruptions.
+7. Conclusion This Business Continuity and Disaster Recovery Plan is essential for ensuring the resilience and security of Ecostars ESG AI. All employees must familiarize themselves with the procedures outlined in this document to ensure preparedness for potential disruptions.
 
 
 

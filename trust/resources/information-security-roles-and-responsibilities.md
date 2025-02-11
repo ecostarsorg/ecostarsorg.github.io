@@ -17,7 +17,7 @@
 
 ## 1. Introduction
 ### 1.1 Purpose
-This document defines the roles and responsibilities for information security within [Company Name] to ensure compliance with SOC 2, ISO 27001, and other relevant security standards.
+This document defines the roles and responsibilities for information security within Ecostars ESG AI to ensure compliance with SOC 2, ISO 27001, and other relevant security standards.
 
 ### 1.2 Scope
 This policy applies to all employees, contractors, and stakeholders handling company information and systems.

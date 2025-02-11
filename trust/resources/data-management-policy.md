@@ -11,7 +11,7 @@
 This document defines the data management policy for Ecostars ESG AI to ensure proper handling, storage, and security of data in compliance with SOC 2, ISO 27001, GDPR, and other relevant frameworks.
 
 ### 1.2 Scope
-This policy applies to all employees, contractors, and third-party service providers who handle data within [Company Name] systems.
+This policy applies to all employees, contractors, and third-party service providers who handle data within Ecostars ESG AI systems.
 
 ### 1.3 Objectives  
 - Ensure secure collection, storage, and processing of data.
