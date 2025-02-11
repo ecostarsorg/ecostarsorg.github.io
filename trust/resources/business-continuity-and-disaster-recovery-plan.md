@@ -3,7 +3,6 @@
 * **Date of version**: 2024-04
 * **Author**: Information Security Officer
 * **Approver**: CTO
-* **Confidentiality**: Internal use. Shared upon request as part of a due diligence
 
 We have monitoring, alarms and procedures set up
 Monitoring: service health tools, ping-monitoring connected to alerts if the system goes down or if performance of any component is low

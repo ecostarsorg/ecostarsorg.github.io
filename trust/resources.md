@@ -9,7 +9,7 @@
 * [Cryptography Policy](resources/cryptography-policy.md)
 * [Data Management Policy](resources/data-management-policy.md)
 * [Human Resource Security Policy](resources/human-resource security-policy.md)
-* [Incident Response Plan](resources/incident-response plan.md)
+* [Incident Response Plan](resources/incident-response-plan.md)
 * [Information Security Policy (resources/AUP)](information-security policy-aup.md)
 * [Information Security Roles and Responsibilities](resources/information-security-roles-and-responsibilities.md)
 * [Penetration Test](resources/penetration-test.md)
