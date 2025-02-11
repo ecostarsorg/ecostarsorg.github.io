@@ -50,7 +50,7 @@ Ecostars completes termination checklists to ensure that access is revoked for t
 Ecostars requires authentication to the "production network" to use unique usernames and passwords or authorized SSH keys.
 	
 #### Remote access MFA enforced ✅
-
+✅
 Ecostars's production systems can only be remotely accessed by authorized employees possessing a valid multi-factor authentication (MFA) method.
 	
 #### Remote access encrypted enforced ✅
@@ -95,11 +95,11 @@ Ecostars has infrastructure supporting the service patched as a part of routine 
 
 
 ### 📋 Organizational security
-### Asset disposal procedures utilized ✅
+**Asset disposal procedures utilized ✅**
 
 Ecostars has electronic media containing confidential information purged or destroyed in accordance with best practices, and certificates of destruction are issued for each device destroyed.
 	
-### Production inventory maintained ✅
+**Production inventory maintained ✅**
 
 Ecostars maintains a formal inventory of production system assets.
 	
