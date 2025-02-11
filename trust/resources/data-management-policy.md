@@ -41,6 +41,14 @@ This policy applies to all employees, contractors, and third-party service provi
 - Confidential data: Retained for [Define retention period] years, then securely deleted.
 - Restricted data: Retained only as long as legally required, then permanently deleted.
 
+### 3.3 Data Center Locations and Compliance
+- Ecostars relies on world-class cloud providers, which have data centers located inside the European Union.
+ Our current cloud provider is Microsoft Azure, with services allocated in the “West Europe” region, located in several data centers in the outskirts of Amsterdam (Netherlands).
+- As data needs grow, we plan to deploy in a second region for geo-redundancy, likely in the Madrid Data Center once it becomes available.
+- Databases are hosted in the “West Europe” region by Microsoft Azure, with future expansion options including Google Cloud Platform and Amazon Web Services, always within EU-based, compliant data centers.
+- All non-transient data has at least a live replica and periodic off-site backups.
+- Backups are fully automated, encrypted at rest, and securely stored using Azure Blob Storage.
+
 ## 4. Data Access and Security
 ### 4.1 Access Controls  
 - Role-Based Access Control (RBAC) is enforced for all data access.
