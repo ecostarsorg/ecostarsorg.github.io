@@ -8,7 +8,7 @@ Ecostars is a B2B startup transforming the sustainability certifications industr
 - 🚀 Technical challenge 
 - 🏠 Hybrid (Madrid, 1-2 office days/week)
 - 🕐 Flexible hours with overlapping time frame (10:00 - 15:00)
-- 💰 40-60k + equity
+- 💰 40-55k + equity
 
 *NOTE: Engineer: a practitioner of engineering, professional who invents, designs, analyzes, builds and tests machines, complex systems, structures, gadgets and materials to fulfill functional objectives and requirements while considering the limitations imposed by practicality, regulation, safety and cost. Engineering is a mindset, not a diploma.*
 
@@ -115,7 +115,7 @@ The interview will be handled by our Tech and Product team:
 Either way, we'll provide feedback and keep you in the loop after each interview regarding the status of the process.
 
 ## 📦 What we offer
-- Competitive and honest salary. We are starting out but we want to pay you the best we can. 40.000 - 60.000 euros (gross annual salary) with annual reviews
+- Competitive and honest salary. We are starting out but we want to pay you the best we can. 40.000 - 55.000 euros (gross annual salary) with annual reviews
 - Permanent contract
 - Hybrid (Madrid): 1-2 office days/week
 - Flexible hours with overlapping time frame (10:00 - 15:00)
