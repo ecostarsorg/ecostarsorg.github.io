@@ -2,11 +2,11 @@
 
 Ecostars is a B2B startup transforming the hotel sustainability industry. We have a **product customer-first vision**, and an amazing technical challenge in front of us.
 
- * 🌱 Startup
- * 🎯 Product
- * 🚀 Technical challenge
- * 🏠 Hybrid (Madrid, 1-2 office days/week)
- * 🕐 Flexible hours with overlapping time frame (10:00 - 15:00)
+* 🌱 Startup
+* 🎯 Product
+* 🚀 Technical challenge
+* 🏠 Hybrid (downtown Madrid, 1-2 office days/week)
+* 🕐 Flexible hours with overlapping time frame (10:00 - 15:00)
 
 As a purpose-driven and lean team, we passionately embrace:
 * Transparency and trust

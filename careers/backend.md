@@ -57,9 +57,6 @@ We believe that education can be acquired in many ways, not just through a degre
 - Help other engineers join the team by leading their onboarding process.
 
 ## ⚙️ How we work
-**Steering committee** (steerco)
-Once per week we hold a company-wide meeting where we sync about our ongoing projects, needs and thoughts. Everybody is welcome and decisions are made (mostly) by consensus. We intend to keep doing this as long as it is manageable, because we believe it is the best way to avoid confusion and noise.
-
 **Rhythm: Lean Software Development**
 We work in very short cycles, where work takes as long as it takes, but we try to simplify every iteration, release early, test and learn.
 
@@ -79,6 +76,9 @@ Setting your own direction when one isn’t detailed; determining what needs to 
 
 **Communication**
 Since we work asynchronously and remotely, it’s important to radiate information about what we’re working on. We use slack channels profusely.
+
+**Steering committee** (steerco)
+Once per week we hold a company-wide meeting where we sync about our ongoing projects, needs and thoughts. Everybody is welcome and decisions are made (mostly) by consensus. We intend to keep doing this as long as it is manageable, because we believe it is the best way to avoid confusion and noise.
 
  **Balance**
 We believe in the value of a balanced life, which is why we maintain a 40-hour work week. Keeping working hours reasonable helps us focus on what truly matters and ensures that our time and energy are spent effectively. Rest, good sleep, and a fulfilling life outside of work are essential for long-term success and well-being.
