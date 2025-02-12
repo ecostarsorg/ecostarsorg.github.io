@@ -1,8 +1,6 @@
 # 👩‍💻 Careers
 
-Ecostars is a B2B startup transforming the hotel sustainability industry.
-
-We have a **product customer-first vision**, and an amazing technical challenge in front of us. Come join us!
+Ecostars is a B2B startup transforming the hotel sustainability industry. We have a **product customer-first vision**, and an amazing technical challenge in front of us.
 
  * 🌱 Startup
  * 🎯 Product
@@ -19,6 +17,8 @@ As a purpose-driven and lean team, we passionately embrace:
 * Innovative environment
 * Flexibility and async work
 * Professional growth
+
+Come join us!
 
 ## Current openings
 * [Backend Product Engineer](backend.md)
