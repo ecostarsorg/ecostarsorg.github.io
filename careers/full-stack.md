@@ -1,7 +1,7 @@
 # 👩‍💻 Full-stack Product Engineer
 ![Ecostars logo](/images/ecostars-logo.png){:width="250px"}
 
-Ecostars is a B2B startup transforming the sustainability certifications industry. We have a product customer-first vision, and an amazing technical challenge in front of us.
+Ecostars is a B2B startup transforming the sustainability hotel industry. We have a product customer-first vision, and an amazing technical challenge in front of us.
 
 - 🌱 Startup
 - 🎯 Product
@@ -14,10 +14,7 @@ Ecostars is a B2B startup transforming the sustainability certifications industr
 
 
 ## 💚 About Ecostars 
-![Ecostars logo](/images/ecostars-logo.png){:width="250px"}
-Born in 2021, [Ecostars](https://ecostars.org) is a B2B SaaS: a hotel sustainability certification that responds to the sustainable travel trend by awarding eco-stars through a registered algorithm that calculates the environmental impact per stay of each hotel based on three basic parameters: energy efficiency, water efficiency, and sustainable commitments (CO2, circular economy, sustainable food, social impact and animal welfare). The evaluation process is simple, free of charge, automated and statistical -based on an algorithm and comparative benchmark tables-, globally scalable, objective, unbiased and comprehensive, plus 95%+ faster than any other in the market.
-
-In just one year, Ecostars has become the #1 ESG certificate in Spain and #3 globally, present in 30+ countries across Europe, Latin America and Africa. More than 1,500 hotels, including large chains as H10, Meliá, Catalonia, Eurostars, Abba or Ilunion have been certified.
+Founded in 2021, [Ecostars](https://ecostars.org) is on a mission to transform hotel ESG certification and data management through cutting-edge technology. The certification process is simple, free of charge, automated and statistical -based on an algorithm and comparative benchmark tables-, globally scalable, objective, unbiased and comprehensive, plus 95%+ faster than any other in the market.
 
 Our team has extensive experience in building great products and companies. We know success, we know failure; we have built platforms from scratch, we have dealt with large legacy systems. We genuinely care about each team member and the products and services we bring to life. 
 
@@ -70,7 +67,7 @@ We work in very short cycles, where work takes as long as it takes, but we try t
 Kickoff summary during the steerco so we are all on the same page
 Heartbeats: after every “packet” of work, you summarize what is done and we agree on 
 
-**Asynchronous**
+**Asynchronous (focus days) + synchronous (office days)**
 You should collaborate as though most things you ask of others will get an answer eventually, but not necessarily right this second. Your first choice of action should be to post a message, a todo, or a document about what you need to explain or need to know. Then others can read it on their schedule, when the natural lulls of the day allow it, rather than being interrupted right in their peak flow time
 - No dailies
 - Focus and quality time to work
@@ -82,7 +79,6 @@ Setting your own direction when one isn’t detailed; determining what needs to 
 
 **Communication**
 Since we work asynchronously and remotely, it’s important to radiate information about what we’re working on. We use slack channels profusely.
-What will you be working on this week? Write a message to your future self last thing on Friday with the priorities for the week and share it with the team. This way you’ll have all the context once you get back from the weekend or holiday
 
 **Balance**
 We believe in the value of a balanced life, which is why we maintain a 40-hour work week. Keeping working hours reasonable helps us focus on what truly matters and ensures that our time and energy are spent effectively. Rest, good sleep, and a fulfilling life outside of work are essential for long-term success and well-being.
@@ -98,14 +94,14 @@ More details at [https://stackshare.io/companies/ecostars](https://stackshare.io
 ## 👥 The team
 We are a super small team (<10 plus Bola the greyhound) for now.
 
-Bola the greyhound
+Meet Bola the greyhound
 
 ![Bola in the office](/images/Bola-01.jpeg){:height="350px"}
 ![Bola smiling](/images/Bola-02.jpeg){:height="350px"}
 
 ## 📝 The hiring process
 
-Send us an email with your CV to careers@ecostars.org and let us know what's driving you to join Ecostars.
+Send us an email with your CV to [careers@ecostars.org](mailto:careers@ecostars.org) and let us know what's driving you to join Ecostars.
 
 The interview will be handled by our Tech and Product team:
 - An initial video call with our CTO and CPO
