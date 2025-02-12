@@ -10,7 +10,7 @@ Ecostars is a B2B startup transforming the sustainability certifications industr
 - 🕐 Flexible hours with overlapping time frame (10:00 - 15:00)
 - 💰 40-55k + equity
 
-*NOTE: Engineer: a practitioner of engineering, professional who invents, designs, analyzes, builds and tests machines, complex systems, structures, gadgets and materials to fulfill functional objectives and requirements while considering the limitations imposed by practicality, regulation, safety and cost. Engineering is a mindset, not a diploma.*
+*NOTE: Engineer: a practitioner of engineering, professional who invents, designs, analyzes, builds and tests machines, complex systems, structures, gadgets and materials to fulfill functional objectives and requirements while considering the limitations imposed by practicality, regulation, safety and cost. We believe engineering is a mindset, not a diploma.*
 
 
 ## 💚 About Ecostars 
