@@ -3,7 +3,6 @@
 * Date of version: 2024-01
 * Author: Information Security Officer
 * Approver: CTO
-* Confidentiality: Internal use. Shared upon request as part of a due diligence
 
 ## Purpose
 * To identify organizational assets and define appropiate protection responsabilities
