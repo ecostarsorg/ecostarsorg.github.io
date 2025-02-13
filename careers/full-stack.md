@@ -1,7 +1,7 @@
 # 👩‍💻 Full-stack Product Engineer
 ![Ecostars logo](/images/ecostars-logo.png){:width="250px"}
 
-Ecostars is a B2B startup transforming the sustainability hotel industry. We have a product customer-first vision, and an amazing technical challenge in front of us.
+Ecostars is a B2B startup transforming the sustainability hospitality industry. We have a product customer-first vision, and an amazing technical challenge in front of us.
 
 - 🌱 Startup
 - 🎯 Product
@@ -14,8 +14,15 @@ Ecostars is a B2B startup transforming the sustainability hotel industry. We hav
 
 
 ## 💚 About Ecostars 
-Founded in 2021, [Ecostars](https://ecostars.org) is on a mission to transform hotel ESG certification and data management through cutting-edge technology. The certification process is simple, free of charge, automated and statistical -based on an algorithm and comparative benchmark tables-, globally scalable, objective, unbiased and comprehensive, plus 95%+ faster than any other in the market.
+Founded in 2021, [Ecostars](https://ecostars.org) is on a mission to democratize access to hotel sustainability, enabling hotels and chains of all sizes—regardless of prior knowledge—to take action toward a more sustainable future.
 
+We leverage technology and AI to deliver an intuitive SaaS solution that simplifies ESG certification, measurement, continuous improvement, and regulatory compliance.
+
+Ecostars empowers its users to:
+* **Achieve certification**: A fully automated, data-driven process—free of charge, unbiased, globally scalable, and 95% faster than any other solution in the market.
+* **Consolidate and manage data**: Through invoice analysis, third-party integrations, IoT, and more.
+* **Drive continuous improvement**: With personalized action plans tailored to each hotel’s needs.
+* **Ensure seamless reporting and compliance**: Including hassle-free CSRD reporting.
 Our team has extensive experience in building great products and companies. We know success, we know failure; we have built platforms from scratch, we have dealt with large legacy systems. We genuinely care about each team member and the products and services we bring to life. 
 
 As a purpose-driven and lean team, we passionately embrace:

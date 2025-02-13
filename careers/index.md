@@ -1,6 +1,18 @@
 # 👩‍💻 Careers
 
-Ecostars is a B2B startup transforming the hotel sustainability industry. We have a **product customer-first vision**, and an amazing technical challenge in front of us.
+Ecostars is a B2B platform that transforms and democratizes access to hotel sustainability, enabling hotels and chains of all sizes—regardless of prior knowledge—to take action toward a more sustainable future.
+
+We leverage technology and AI to deliver an intuitive SaaS solution that simplifies ESG certification, measurement and continuous improvement.
+
+Ecostars empowers its users to:
+* **Achieve certification**: A fully automated, data-driven process—free of charge, unbiased, globally scalable, and 95% faster than any other solution in the market.
+* **Consolidate and manage data**: Through invoice analysis, third-party integrations, IoT, and more.
+* **Drive continuous improvement**: With personalized action plans tailored to each hotel’s needs.
+* **Ensure seamless reporting and compliance**: Including hassle-free CSRD reporting.
+
+
+We have a **product customer-first vision**, and an amazing technical challenge in front of us.
+
 
 * 🌱 Startup
 * 🎯 Product
