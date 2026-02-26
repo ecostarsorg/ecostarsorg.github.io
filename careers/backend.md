@@ -3,12 +3,12 @@
 
 Ecostars is a B2B startup transforming the sustainability hospitality industry. We have a product customer-first vision, and an amazing technical challenge in front of us.
 
-- 🌱 Startup
+- 🌱 Lean startup (early stage)
 - 🎯 Product
 - 🚀 Technical challenge 
 - 🏠 Hybrid (Madrid, 1-2 office days/week)
 - 🕐 Flexible hours with overlapping time frame (10:00 - 15:00)
-- 💰 40-55k + equity
+- 💰 45-65k
 
 *NOTE: Engineer: a practitioner of engineering, professional who invents, designs, analyzes, builds and tests machines, complex systems, structures, gadgets and materials to fulfill functional objectives and requirements while considering the limitations imposed by practicality, regulation, safety and cost. We believe engineering is a mindset, not a diploma.*
 
@@ -89,7 +89,7 @@ Since we work asynchronously and remotely, it’s important to radiate informati
 **Steering committee** (steerco)
 Once per week we hold a company-wide meeting where we sync about our ongoing projects, needs and thoughts. Everybody is welcome and decisions are made (mostly) by consensus. We intend to keep doing this as long as it is manageable, because we believe it is the best way to avoid confusion and noise.
 
- **Balance**
+ **Work-life balance**
 We believe in the value of a balanced life, which is why we maintain a 40-hour work week. Keeping working hours reasonable helps us focus on what truly matters and ensures that our time and energy are spent effectively. Rest, good sleep, and a fulfilling life outside of work are essential for long-term success and well-being.
 
 Occasionally, off-hours work may be required for on-call duties, maintenance, or emergencies. However, these instances should not extend your total working hours. We trust you to take the necessary time off to recover and balance any extra efforts during the week.
