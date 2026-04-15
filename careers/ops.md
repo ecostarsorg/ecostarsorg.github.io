@@ -14,7 +14,7 @@ Ecostars is a B2B startup transforming the sustainability hospitality industry. 
 
 
 ## 💚 About Ecostars 
-Founded in 2021, [Ecostars](https://ecostars.org) is on a mission to democratize access to hotel sustainability, enabling hotels and chains of all sizes—regardless of prior knowledge—to take action toward a more sustainable future.
+Founded in 2021, [Ecostars](https://ecostars.ai) is on a mission to democratize access to hotel sustainability, enabling hotels and chains of all sizes—regardless of prior knowledge—to take action toward a more sustainable future.
 
 We leverage technology and AI to deliver an intuitive SaaS solution that simplifies ESG certification, measurement, continuous improvement, and regulatory compliance.
 
@@ -111,7 +111,7 @@ Meet Bola the greyhound
 
 ## 📝 The hiring process
 
-Send us an email with your CV to [careers@ecostars.org](mailto:careers@ecostars.org) and let us know what's driving you to join Ecostars.
+Send us an email with your CV to [careers@ecostars.ai](mailto:careers@ecostars.ai) and let us know what's driving you to join Ecostars.
 
 The interview will be handled by our Tech and Product team:
 - An initial video call with our CTO and CPO
