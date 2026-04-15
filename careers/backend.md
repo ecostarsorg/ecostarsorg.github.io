@@ -121,7 +121,7 @@ The interview will be handled by our Tech and Product team:
 Either way, we'll provide feedback and keep you in the loop after each interview regarding the status of the process.
 
 ## 📦 What we offer
-- Competitive and honest salary. We are starting out but we want to pay you the best we can. 40.000 - 55.000 euros (gross annual salary) with annual reviews
+- Competitive and honest salary. We are starting out but we want to pay you the best we can. 45.000 - 65.000 euros (gross annual salary) with annual reviews
 - Permanent contract
 - Hybrid (Madrid): 1-2 office days/week
 - Flexible hours with overlapping time frame (10:00 - 15:00)
