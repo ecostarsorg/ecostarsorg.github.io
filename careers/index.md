@@ -36,6 +36,7 @@ Come join us!
 * [Backend Product Engineer](backend.md)
 * [Full-stack Product Engineer](full-stack.md)
 * [Ops Product Engineer](ops.md)
+* [Sustainability Expert](sustainability.md)
 
 
 ⚠️ *If what you read sparks your interest and you believe you have what it takes to make a significant impact, we want to hear from you! Don't hesitate to reach out, even if you don't check all the boxes or if there's no specific offer for your profile now. If you think you can fit in and contribute, we encourage you to apply!* 💪
